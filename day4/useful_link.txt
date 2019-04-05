@@ -1,0 +1,15 @@
+rss.joins.com
+<location wl_ver="3">
+<province>서울ㆍ인천ㆍ경기도</province>
+<city>서울</city>
+<data>
+<mode>A02</mode>
+<tmef>2019-04-07 00:00</tmef>
+<wf>구름많음</wf>
+<tmn>7</tmn>
+<tmx>16</tmx>
+<reliability>낮음</reliability>
+</data>
+<data>
+<mode>A02</mode>
+<tmef>2019-04-07 12:00</tmef>
